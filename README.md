@@ -30,4 +30,4 @@ where a_0 will be the constant term and a_k the coefficient of the highest degre
 	* [-5436640836, 95024916, -447033, 152, 1] as (x-123)(x-438)(x+834)(x-121)
 	* [156, -9, -230, -2, 1] as (x^2 + 15x + 12)(x^2 - 17x + 13)
 
-Alternatively, you may generate test polynomials to factor with MultiplyPolys(p1, p2) implemented in section 4 of the file.
+	Alternatively, you may generate test polynomials to factor with MultiplyPolys(p1, p2) implemented in section iv of the file.
