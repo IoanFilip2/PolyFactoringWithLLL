@@ -1,6 +1,6 @@
 ### IOAN FILIP, COLUMBIA UNIVERSITY, MATH PHD
 
-### 7/11/15
+### 10/11/15
 
 ### RECURSE CENTER WINTER 2, 2016 BATCH APPLICATION 
 
@@ -630,7 +630,7 @@ def Newton(poly, epsilon):
 ###     A Flag construction given polynomial
 ###     Factorization algorithm,applied recursively, while degree > 1
 
-
+### TO DO: extend functionality with command line polynomial inputs ###
 ###import sys
 
 
