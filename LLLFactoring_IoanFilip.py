@@ -1,8 +1,7 @@
 ### IOAN FILIP, COLUMBIA UNIVERSITY, MATH PHD
 
-### 10/11/15
+### 10/19/15
 
-### RECURSE CENTER WINTER 2, 2016 BATCH APPLICATION 
 
 ######################################################################
 
